@@ -1,0 +1,14 @@
+.Navigationright1{
+	float:right;
+	margin-right:25px;
+	font-size:15px;
+}
+.Navigationright2{
+	float:right;
+	margin-right:25px;
+	font-size:15px;
+}
+.navli li{
+	list-style-type:none;
+	line-height:40px;
+	}

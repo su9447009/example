@@ -1,0 +1,45 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#header{
+	position:fixed;
+	top:0px;
+	width:100%;
+	height:150px;
+	z-index:9999;
+	background-color:white;
+	}
+
+#Navigation{
+	position:relative;
+	top:130px;
+	width:20%;
+	height:2000px;
+	float:left;
+	
+}
+#main{
+	position:relative;
+
+	top:130px;
+	width:50%;
+	height:2000px;
+    float:left;
+	}
+#aside{
+	position:relative;
+
+	top:130px;
+	width:30%;
+	height:2000px;
+	float:left;
+	
+}
+a{
+	text-decoration:none;
+	color:white;
+	}
+.achange{
+	     color:blue;
+}
