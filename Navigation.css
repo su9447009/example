@@ -1,14 +1,18 @@
-.Navigationright1{
+.Navigation_sort{
 	float:right;
 	margin-right:25px;
 	font-size:15px;
 }
-.Navigationright2{
+.Navigation_sort2{
 	float:right;
 	margin-right:25px;
 	font-size:15px;
 }
-.navli li{
+.Navigation_sort_ul li{
 	list-style-type:none;
-	line-height:40px;
+	line-height:38px;
+	}
+.Navigation_sort2_ul li{
+	list-style-type:none;
+	line-height:38px;
 	}

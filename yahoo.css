@@ -13,7 +13,7 @@
 
 #Navigation{
 	position:relative;
-	top:130px;
+	top:150px;
 	width:20%;
 	height:2000px;
 	float:left;
@@ -22,7 +22,7 @@
 #main{
 	position:relative;
 
-	top:130px;
+	top:150px;
 	width:50%;
 	height:2000px;
     float:left;
@@ -30,7 +30,7 @@
 #aside{
 	position:relative;
 
-	top:130px;
+	top:150px;
 	width:30%;
 	height:2000px;
 	float:left;
@@ -40,6 +40,6 @@ a{
 	text-decoration:none;
 	color:white;
 	}
-.achange{
+.font_color{
 	     color:blue;
 }

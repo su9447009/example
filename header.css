@@ -1,16 +1,16 @@
-#aa{
+#header_classification{
 position:absolute;
 top:0px;
 width:100%;
 height:40px;
 background-color:blue;
 }	
-.top-center{
+.header_classification_ul{
 line-height:40px;
 margin:0 80px;
 
 }
-.header-left{
+.header_classification_ul_li{
 	margin:0 auto;
 	display:inline-block;
 	padding:0 5px;
@@ -22,33 +22,33 @@ margin:0 80px;
 	float:right;
 	
 	}
-#bb{
+#header_uhWrapper{
 	position:absolute;
 	top:50px;
 	width:100%;
 	height:110px;
 		}
-.bbtable1{
+.header_uhWrapper_table{
 	positipn:absolute;
 	width:900px;
-	height:73px;
+	height:60px;
 	padding-left:80px;
 	text-align:center;
 }
-.bbtable1img{
+.header_uhWrapper_table_img{
 	width:100px;
 }
-.Exal li{
+.header_uhWrapper_table_right_ul li{
 	float:left;
 	margin:0 5px;
 	display:inline-block;
 	font-size:2px;
 }
-.tableright{
+.header_uhWrapper_table_right{
 	margin-left:50px;
 }
 
-.achange1{
+.header_uhWrapper_table_home{
 	font-size:10px;
 	float:right;
 	padding-right:10px;
@@ -56,40 +56,37 @@ margin:0 80px;
 	padding-left:10px;
 }
 
-.bbinput1{
+.header_uhWrapper_table_input{
 	width:80%;
 	height:100%;
 	background-image:url('C:\Users\法因\Desktop\劉宸資料夾\程式\htm練習\yahoo.png')
 	z-index:9999;
 	
 }
-.bbtable2{
+
+.header_uhWrapper_table2{
 	position:absolute;
 	width:1000px;
 	top:-10px;
 	left:950px;
 	text-align:center;
 }
-.bbtableul li{
+.header_uhWrapper_table2_ul li{
 	display:inline-block;
 	line-height:50px;
 	float:left;
 	width:100px;
 		
 }
-.bbtableimg1{
+.header_uhWrapper_table2_ul_img{
 	
 	width:35%;
 }
-.bbtableimg2{
+.header_uhWrapper_table2_ul_img1{
 	padding-top:10px;
 	width:35%;
 }
-.achange11{
-	
-	color:blue;
-		
-}
+
 
 
 
